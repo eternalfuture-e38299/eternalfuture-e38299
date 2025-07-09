@@ -5,13 +5,11 @@
 ## 🚀 Core Projects | Основные проекты | 核心项目
 
 ### 1. TEFModLoader (下一代Terraria模组引擎)
-[![GitHub](https://img.shields.io/badge/Repo-1.3k⭐-blue?logo=github)](https://github.com/eternalfuture-e38299/TEFModLoader)
 - **Tech Stack**: C++20, CMake, Jetpack Compose, Dobby Hook
 - **Key Innovation**: 跨平台模组架构 (Android/Windows/Linux)
 - **Performance**: 内存占用仅增加3MB vs V8引擎的35MB
 
 ### 2. SilkCasket (智能压缩格式)
-[![GitLab](https://img.shields.io/badge/Repo-GitLab-orange?logo=gitlab)](https://gitlab.com/2079541547/SilkCasket)
 - **Features**: 
   - 多算法混合压缩 (LZ4/LZW/LZMA2)
   - 军用级AES-256加密
