@@ -1,4 +1,3 @@
-# EternalFuture 🌐 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eternalfuture-e38299&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/eternalfuture-e38299)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eternalfuture-e38299&layout=compact&theme=radical)](https://github.com/eternalfuture-e38299)
 
@@ -20,4 +19,4 @@
 - **Core Tech**:
   - /proc内存伪装系统
   - 动态APK签名混淆
-  - SIGSEGV崩溃防护引擎
+  - SIGSEGV崩溃防护
