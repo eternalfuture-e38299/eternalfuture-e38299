@@ -11,7 +11,6 @@
 ### 2. SilkCasket (智能压缩格式)
 - **Features**: 
   - 多算法混合压缩 (LZ4/LZW/LZMA2)
-  - 军用级AES-256加密
   - 跨平台支持 (Android x86/ARM全架构)
 
 ### 3. SilkRift (安卓安全框架)
