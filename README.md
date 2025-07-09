@@ -1,4 +1,5 @@
-## Hi there 👋
+[![Github stats](https://github-readme-stats.vercel.app/api?username=eternalfuture-e38299&show_icons=true&include_all_commits=true)](https://github.com/YourUsername/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eternalfuture-e38299&layout=compact)](https://github.com/YourUsername/github-readme-stats)
 
 <!--
 **eternalfuture-e38299/eternalfuture-e38299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
